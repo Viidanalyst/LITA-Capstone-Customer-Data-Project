@@ -107,7 +107,7 @@ Group by canceled
 ```
 ---
 ###  DATA VISUALIZATION WITH POWER BI
-In order to present all my analysis in a Dashboard i took my findings to Power BI.
+In order to present all my analysis in a Dashboard i took my findings to Power BI where i visualized key customer segments and subscription patterns.
 
 ![Project Lita - Excel 03-Nov-24 11_20_29 PM](https://github.com/user-attachments/assets/e534ae5f-e8a9-4e5f-bc76-9ab1ea37d5e4)
 
@@ -120,5 +120,34 @@ In order to present all my analysis in a Dashboard i took my findings to Power B
 6. In the Eastern Region, all the customers retained their subscription, but this is not the case in other regions. The Northern, Western and Southern regions lost 60% of their customers.
 7. Most Customers cancelled their Premium and Standard package which resulted in a revenue loss of 10,126,800 and 10,111,406 respectively.
 
+#### DASHBOARDS WITH APPLIED SLICER
+I applied a slicer to my Dashboard in order to get more indepth insights. I applied  Subscription Duration and Subscription Type to my slicer.
+####  Dashboard with applied Subscription Duration slicer
+The dashboard below shows the applied slicer for 365 days subscription duration.
 
+![Project Lita - Excel 03-Nov-24 11_19_40 PM](https://github.com/user-attachments/assets/a30ddca8-a35e-473f-9ec3-5dc9760753b6)
+####  Insights Drawn
+1.  The total revenue generated in 365 days is 43,889,663 those  who canceled inclusive
+2.  The Basic Subscription Type generated the most revenue with 23,683,493 those who canceled inclusive. The revenue generated for those who did not cancel is 16.97 million. For the Premium package all the customers canceled their subscription
+3.  In 365 days, No customer from the Eastern region canceled their subscription which generated a revenue of 10,242,555. But it is not the same with the Northern, Southern and Western Regions with 50% and 33% customers canceling subscription Northern and Western region respectively while all the customers canceled the subscription in the Southern Region.
+4.  Overall in 365 days, 54% of customers did not cancel while 46% canceled.
 
+  **The dashboard below shows the applied slicer for 366 days subscription duration.**
+
+![Project Lita - Excel 03-Nov-24 11_20_56 PM](https://github.com/user-attachments/assets/8b394f47-3335-4b4c-90dd-c7cab2829666)
+####  Insights Drawn
+1.  The total revenue generated in 366 days is 23,650,512 those who canceled inclusive.
+2.  The Basic Subscription Type generated the most revenue with 10,093,004 those who canceled inclusive. The revenue generated for those who did not cancel is 6.72 million. For the Standard package all the customers canceled their subscription.
+3.  No customer canceled their subscription in 366 days in The Eastern and Southern Region. But all the customers in the Western and Northern region canceled their subscription.
+4.  Overall in 366 days, 57% of customers did not cancel their subscription while 47% canceled.
+
+####  Dashboard with applied Subscription Type slicer
+For the subscription type slicer, I chose to use the Subscription type that generated the most revenue. The dashboard below shows the applied slicer for the Basic Subscription Type.
+
+![Project Lita - Excel 03-Nov-24 11_21_23 PM](https://github.com/user-attachments/assets/b0e8cdf8-add5-4fd8-adb9-62ac02a9abc0)
+####  Insights Drawn
+1.  The total revenue generated for the Basic subscription type is 33,776,735 those who canceled inclusive.
+2.  The Basic subscription type is well dominated in the Eastern Region and Northern region though 60% of customers in the North canceled thier subscription. while no one in the East canceled.
+3.  Overall, 70% of customers did not cancel their basic subscription while 30% canceled.
+---
+##   GENERAL CONCLUSIONS
