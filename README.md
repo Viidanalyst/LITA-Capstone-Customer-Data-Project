@@ -13,15 +13,21 @@ This segment explains the important variables that were used for the analysis.
 **Qualitative Data**
 -  **Subscription Type:** this represents the categories of subscriptions that customers can subscribe to. It represents the subscription package.
 -  **Region:** this represents the geographical area that customers reside in, in which subscription is made.
-- ** Subscription Cancelation:** this represents the customers who canceled (True) and did not cancel (False) their subscription.
+- **Subscription Cancelation**: this represents the customers who canceled (True) and did not cancel (False) their subscription.
 
-**  Quantitative Data**
+ **Quantitative Data**
 -  **Subscription Start/End**: this represents the start date of subscription till the end date of subscription.
 -  **Revenue:** this represents the total value of subscription. it also represents the amount spent by customers for subscription.
 -  **Subscription Duration**: this represents the number of days that the subscription lasted for.
 ---
 ##  TOOLS USED
 For this dataset, i used three(3) analytical tools for it. They are;
--  Microsoft Excel 
--  SQL Server
--  Microft Power BI
+-  Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+-  SQL Server [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+-  Microft Power BI [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-download)
+---
+##  DATA PREPARATIONS
+In order to be able to analyse this data i had to make sure it was cleaned. Firstly, i checked for duplicates and removed all duplicates. This reduced thedata by 50%.I also checked for empty cells which there was none. When i was sure it the data is properly cleaned i started my analysis. I also used the cleaned data in SQL and Power BI.
+###  Excel Analysis
+I used Excel Functions and Pivot Tables to carry out the following operations;
+
