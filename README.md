@@ -114,12 +114,13 @@ In order to present all my analysis in a Dashboard i took my findings to Power B
 ####  INSIGHTS DRAWN
 1.  The Total Revenue generated in the subscription year is 67,540,175. The Maximum revenue generated for a Subscription is 3,000 and the Minimum revenue generated for a subscription is 1,000. ( Note: the total revenue is inclusive of those who canceled subscription).  The Total Revenue without Subscription Cancellation is 37,208,727.
 2.  The Average Subscription duration is 365 days.
-3.  The Eastern Region generated the Highest Revenue for customers who subscribed the most with 16,958,763.
-4.  The Basic Subscription Type generated the most revenue with a total of 33,776,735 inclusive with those who canceled. Without Customers who cancelled The Basic Subscription type sums up to 23,683,493.
-5. The rate of Subscription Cancelation is high in this subscription with a percentage of 45% while for customers who retained subscription is 55%. Even if those retaining subscription is higher than those who canceled, i consider the rate of cancelation high.
-6. In the Eastern Region, all the customers retained their subscription, but this is not the case in other regions. The Northern, Western and Southern regions lost 60% of their customers.
-7. Most Customers cancelled their Premium and Standard package which resulted in a revenue loss of 10,126,800 and 10,111,406 respectively.
-
+3.  The Eastern and Northern Region customers subscribed to the Basic package, the Southern Region customers subscribed to the Premium package and the Western region customers subscribed to the Standard package.
+4.  The Eastern Region generated the Highest Revenue for customers who subscribed the most with 16,958,763.
+5.  The Basic Subscription Type generated the most revenue with a total of 33,776,735 inclusive with those who canceled. Without Customers who cancelled The Basic Subscription type sums up to 23,683,493.
+6. The rate of Subscription Cancelation is high in this subscription with a percentage of 45% while for customers who retained subscription is 55%. Even if those retaining subscription is higher than those who canceled, i consider the rate of cancelation high.
+7. In the Eastern Region, all the customers retained their subscription, but this is not the case in other regions. The Northern, Western and Southern regions lost 60% of their customers.
+8. Most Customers cancelled their Premium and Standard package which resulted in a revenue loss of 10,126,800 and 10,111,406 respectively.
+---
 #### DASHBOARDS WITH APPLIED SLICER
 I applied a slicer to my Dashboard in order to get more indepth insights. I applied  Subscription Duration and Subscription Type to my slicer.
 ####  Dashboard with applied Subscription Duration slicer
@@ -151,3 +152,10 @@ For the subscription type slicer, I chose to use the Subscription type that gene
 3.  Overall, 70% of customers did not cancel their basic subscription while 30% canceled.
 ---
 ##   GENERAL CONCLUSIONS
+Having analysed and seen the insights drawn, here are some generalization i took note of.
+- In as much as the rate of Customers who did not cancel is higher than those who canceled, the difference is just by 10% which is not a lot. At this rate, it is safe to say that in coming years customers are likely to cancel their subscription packages if nothing is done about it.
+**What can be done?**
+- The company would have to look into the sales of the past years to know if customers has been canceling gradually, if this is the case, it is most likely because they increased their subscription packages prices which made users unsubscribe.
+- They should look into reducing their prices a bit to retain customers, because if nothing is done at that rate, more customers are bound to be lost.
+- Also, all the regions should be looked into especially in the Northern, Western and Southern regions where most of the customers unsubscribed. Call these customers to hear their views on why they stopped subscribing, this way the company have carried out a research and the company will know better ways to satisfy the customers.
+- Lastly, even if subscription prices will be increased make sure customers get the worth of their money. Make sure each subscription type has something unique that will be almost irresistible for customers to cancel.
